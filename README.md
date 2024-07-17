@@ -16,8 +16,9 @@ Breve descrição do projeto aqui. Explique o propósito e os objetivos principa
 
 Forneça instruções sobre como instalar e configurar o projeto. Inclua requisitos de sistema, se houver, e comandos específicos para instalar dependências.
 
-# Exemplo de comando de instalação
+### Exemplo de comando de instalação
 npm install meu-pacote
+clone git [link do repositorio]
 
 ## Uso
 Explique como usar o projeto. Forneça exemplos de código, se aplicável, e demonstre as funcionalidades principais.
