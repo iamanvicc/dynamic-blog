@@ -1,0 +1,39 @@
+##Markdown
+É uma linguagem de marcação para ser fácil de ler e escrever texto de forma simples. Você 
+pode criar documentos para blogs e README files em projetos.
+
+1. Cabeçalho:
+# Cabeçalho 1
+## Cabeçalho 2
+### Cabeçalho 3
+
+2. Ênfase:
+*Itálico* ou _Itálico_
+**Negrito** ou __Negrito__
+
+3. Listas não ardenada
+* Item 1
+* Item 2
+* Item 3
+
+4. Listas ordenadas:
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
+
+5. Links:
+[Texto do link](URL)
+
+6. Imagens: 
+![Texto alternativo](URL da imagem)
+
+7. Bloco de Código
+```
+Código aqui
+```
+
+8. Citação:
+> Esta é uma citação
+
+9. Linha horizontal
+-----
