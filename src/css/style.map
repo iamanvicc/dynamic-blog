@@ -1,0 +1,28 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../css/style.scss",
+		"../css/sass/_colors.scss",
+		"../css/sass/_layout.scss",
+		"../css/sass/_spacing.scss",
+		"../css/sass/_typography.scss",
+		"../css/sass/_menu.scss",
+		"../css/sass/_footer.scss",
+		"../css/sass/_icons.scss",
+		"../css/sass/_buttons.scss"
+	],
+	"sourcesContent": [
+		"*{\r\n    padding: 0;\r\n    margin: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\n@import 'sass/colors';\r\n@import 'sass/layout';\r\n@import 'sass/spacing';\r\n@import 'sass/typography';\r\n\r\nhtml{\r\n    scroll-behavior: smooth;\r\n}\r\n\r\nbody{\r\n    width: 100;\r\n    position: relative;\r\n}\r\n\r\n.border{\r\n    border: 1px solid red;\r\n}\r\n\r\n.hidden{\r\n    overflow: hidden;\r\n}\r\n\r\n.relative{\r\n    position: relative;\r\n}\r\n\r\nsvg, img{\r\n    width: 100%;\r\n}\r\n\r\n@import 'sass/menu';\r\n@import 'sass/footer';\r\n@import 'sass/icons';\r\n@import 'sass/buttons';",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,CAAC,CAAA;EACG,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,UAAU;CACzB;;;AAOD,AAAA,IAAI,CAAA;EACA,eAAe,EAAE,MAAM;CAC1B;;;AAED,AAAA,IAAI,CAAA;EACA,KAAK,EAAE,GAAG;EACV,QAAQ,EAAE,QAAQ;CACrB;;;AAED,AAAA,OAAO,CAAA;EACH,MAAM,EAAE,aAAa;CACxB;;;AAED,AAAA,OAAO,CAAA;EACH,QAAQ,EAAE,MAAM;CACnB;;;AAED,AAAA,SAAS,CAAA;EACL,QAAQ,EAAE,QAAQ;CACrB;;;AAED,AAAA,GAAG,EAAE,GAAG,CAAA;EACJ,KAAK,EAAE,IAAI;CACd"
+}

@@ -1,0 +1,39 @@
+/* line 1, ../../blog/src/css/style.scss */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* line 12, ../../blog/src/css/style.scss */
+html {
+  scroll-behavior: smooth;
+}
+
+/* line 16, ../../blog/src/css/style.scss */
+body {
+  width: 100;
+  position: relative;
+}
+
+/* line 21, ../../blog/src/css/style.scss */
+.border {
+  border: 1px solid red;
+}
+
+/* line 25, ../../blog/src/css/style.scss */
+.hidden {
+  overflow: hidden;
+}
+
+/* line 29, ../../blog/src/css/style.scss */
+.relative {
+  position: relative;
+}
+
+/* line 33, ../../blog/src/css/style.scss */
+svg, img {
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
