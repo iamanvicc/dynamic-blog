@@ -5,10 +5,9 @@ $primary-color: #06090f;
 $primary-dark: #151B26;
 $primary-light: #0F141F;
 
-/*
-$secondary-color: 
-$secondary-dark:
-$secondary-light:*/
+$secondary-color: #1B69D2;
+$secondary-dark: #1357B3;
+$secondary-light:#5390E3;
 
 //Neutral Colors:
 $black-normal: #0F141F;
@@ -49,10 +48,6 @@ $yellow-light: #ffd76b;
 
 .color-primary{
     color: $primary-light;
-}
-
-.color-gradient{
-    //jsmasmams
 }
 
 .color-gray{
