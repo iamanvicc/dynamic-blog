@@ -1,0 +1,60 @@
+header {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba($color: $primary-color, $alpha: 0.3);
+    border: 1px solid $primary-dark;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: $white-normal;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    
+    li {
+        margin-left: 24px;
+        
+        a {
+            text-decoration: none;
+            color: $white-normal;
+        }
+    }
+}
+
+.right-side {
+    display: flex;
+    align-items: center;
+}
+
+.search {
+    input{
+        width: 280px;
+        height: 48px;
+        background-color: $primary-dark;
+        border: none;
+        border-radius: 4px;
+        text-indent: 10px;
+    }
+}
+
+.cta-desktop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 110px;
+    height: 48px;
+    background-image: linear-gradient(66deg, $secondary-dark, $secondary-color);
+    border-radius: 4px;
+}
+
+.btn {
+    text-decoration: none;
+    color: $white-normal;
+}

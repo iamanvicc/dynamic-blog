@@ -4,10 +4,10 @@
     box-sizing: border-box;
 }
 
-@import 'sass/colors';
-@import 'sass/layout';
-@import 'sass/spacing';
-@import 'sass/typography';
+@import 'colors.scss';
+@import 'layout.scss';
+@import 'spacing.scss';
+@import 'typography.scss';
 
 html{
     scroll-behavior: smooth;
@@ -34,7 +34,6 @@ svg, img{
     width: 100%;
 }
 
-@import 'sass/menu';
-@import 'sass/footer';
-@import 'sass/icons';
-@import 'sass/buttons';
+@import 'menu.scss';
+@import 'icons.scss';
+@import 'buttons.scss';
